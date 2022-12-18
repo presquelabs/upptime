@@ -1,7 +1,7 @@
 url: https://beta.presquelabs.com
-status: down
-code: 400
-responseTime: 652
-lastUpdated: 2022-12-18T11:29:06.760Z
+status: up
+code: 500
+responseTime: 576
+lastUpdated: 2022-12-18T11:40:50.829Z
 startTime: Tue Jun 14 2022 00:25:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

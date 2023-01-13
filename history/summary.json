@@ -39,10 +39,10 @@
     "url": "https://beta.presquelabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/beta.presquelabs.com.ico",
     "slug": "beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "93.27%",
-    "uptimeWeek": "94.98%",
+    "uptimeDay": "93.26%",
+    "uptimeWeek": "95.49%",
     "uptimeMonth": "94.92%",
     "uptimeYear": "99.21%",
     "time": 622,
@@ -51,6 +51,7 @@
     "timeMonth": 650,
     "timeYear": 622,
     "dailyMinutesDown": {
+      "2023-01-13": 0,
       "2023-01-12": 97,
       "2023-01-11": 81,
       "2023-01-10": 55,
@@ -83,8 +84,7 @@
       "2022-12-12": 71,
       "2022-12-11": 20,
       "2022-12-10": 18,
-      "2022-12-09": 81,
-      "2022-12-08": 18
+      "2022-12-09": 81
     }
   }
 ]

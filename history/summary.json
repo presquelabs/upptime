@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/alpha.presquelabs.com.ico",
     "slug": "alpha",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.28%",
+    "uptimeYear": "98.29%",
     "time": 207,
     "timeDay": 137,
     "timeWeek": 200,
@@ -39,14 +39,14 @@
     "url": "https://beta.presquelabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/beta.presquelabs.com.ico",
     "slug": "beta",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "95.75%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "95.74%",
     "uptimeWeek": "94.68%",
     "uptimeMonth": "94.65%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.22%",
     "time": 622,
-    "timeDay": 634,
+    "timeDay": 639,
     "timeWeek": 636,
     "timeMonth": 646,
     "timeYear": 622,
@@ -81,8 +81,7 @@
       "2022-12-19": 57,
       "2022-12-18": 136,
       "2022-12-17": 51,
-      "2022-12-15": 100,
-      "2022-12-14": 16
+      "2022-12-15": 100
     }
   }
 ]

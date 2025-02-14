@@ -4,7 +4,7 @@
     "url": "https://nginx.presquelabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/nginx.presquelabs.com.ico",
     "slug": "delta",
-    "status": "up",
+    "status": "down",
     "uptime": "98.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 228,
     "timeYear": 234,
     "dailyMinutesDown": {
+      "2025-02-14": 0,
       "2024-12-14": 1227,
       "2024-12-13": 1440,
       "2024-12-12": 1440,

@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.presquelabs.com.ico",
     "slug": "delta",
     "status": "up",
-    "uptime": "87.43%",
+    "uptime": "87.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.75%",
-    "uptimeYear": "66.92%",
+    "uptimeYear": "67.18%",
     "time": 257,
-    "timeDay": 339,
-    "timeWeek": 321,
-    "timeMonth": 318,
+    "timeDay": 269,
+    "timeWeek": 322,
+    "timeMonth": 316,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2026-03-20": 66,
@@ -148,8 +148,7 @@
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
-      "2025-05-29": 1394,
-      "2025-04-07": 995
+      "2025-05-29": 1394
     }
   }
 ]
